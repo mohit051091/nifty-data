@@ -19,14 +19,20 @@ Parquet files live in Git LFS (`.gitattributes`), Zstandard compressed. Schema, 
 
 ## Monthly versus weekly: the dedupe rule
 
-**The last weekly expiry of each calendar month is the monthly contract.** It is one instrument. It is stored only
-under `data/monthly/` and never copied to `data/weekly/`. A weekly expiry folder therefore exists for every weekly
-date except those 61 monthly dates. "Last" means the last expiry by actual date in the calendar month, which is
-also how Dhan's `MONTH` flag behaves. It differs from NSE's own series only in April 2025: the weekly of 1 May
-(a holiday) moved to Wednesday 30 Apr, after the NSE monthly of 24 Apr. Dhan serves 30 Apr as the monthly, so
-`data/monthly/2025-04-30` holds it and 24 Apr is stored as a weekly. Dhan serves the same contract under either flag (checked: on 14 Jan 2026,
-`WEEK` code 2 and `MONTH` code 1 return identical rows), so nothing is lost. `backfill/expiries-weekly.csv` lists all
-weekly dates with a `monthly` column, and the downloader refuses to fetch a `monthly=true` date as a weekly.
+**The monthly contract of a month is the last expiry whose nominal date (the scheduled Thursday, or Tuesday from Sep 2025,
+before any holiday shift) falls in that month: NSE's own definition.** It is one instrument. It is stored only under
+`data/monthly/` and never copied to `data/weekly/`, so a weekly expiry folder exists for every weekly date except those
+61 monthly dates. A weekly that a holiday pulls back into an earlier month stays a weekly. This changes one month: the
+weekly nominally due 1 May 2025 (a holiday) moved to Wednesday 30 Apr, after the NSE monthly of Thursday 24 Apr 2025, so
+`data/monthly/2025-04-24` and `data/weekly/2025-04-30`. Every other month is the same under either reading.
+
+**April 2025 override.** Dhan's `expiryFlag=MONTH` does not follow NSE here: it serves 30 Apr as the April "monthly" and
+has no 24 Apr contract. So the downloader fetches the NSE monthly 24 Apr through `expiryFlag=WEEK` (code 4 down to 1 as it
+nears expiry; Dhan serves it only from 4 Apr 2025, so 27 Mar to 3 Apr are empty) and 30 Apr as an ordinary weekly, and the
+May monthly (29 May) as MONTH code 2 until 30 Apr, then code 1. The per-day flag and code are in
+`backfill/dhan-overrides.csv`; the Dhan evidence is `coverage/dhan-flag-evidence.csv` and `coverage/dhan-flag-checks.csv`
+(`backfill/verify_flag_overrides.py`). `backfill/expiries-weekly.csv` lists all weekly dates with a `monthly` column, and the
+downloader refuses to fetch a `monthly=true` date as a weekly.
 
 Because a weekly contract is fetched only from the day after the previous weekly expiry, a weekly folder holds about
 one week of trading. A monthly folder holds about a month. The weekly that follows a monthly date starts on the day
@@ -35,6 +41,6 @@ incoming contract, exactly as in the Bank Nifty data.
 
 ## Expiry calendar
 
-Weekly expiry is Thursday to 31 Aug 2025 and Tuesday from 1 Sep 2025. Monthly is the last of those in the month.
-A holiday moves the expiry to the previous trading day. Every date is `derived` until a NSE F&O bhavcopy for that expiry
-day confirms it, and then it is `verified`. See [backfill/NSE-REFERENCE.md](backfill/NSE-REFERENCE.md).
+Weekly expiry is Thursday to 28 Aug 2025 and Tuesday from 2 Sep 2025. Monthly is the last of those whose nominal date is
+in the month (NSE's rule, see above). A holiday moves the expiry to the previous trading day. Every date is `derived`
+until NSE F&O bhavcopies confirm it, and then it is `verified`. See [backfill/NSE-REFERENCE.md](backfill/NSE-REFERENCE.md).

@@ -40,8 +40,8 @@ trade_date,incoming_expiry,incoming_as_listed,source
 2024-12-26,2025-01-30,2025-01-30,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241226_F_0000.csv.zip
 2025-01-30,2025-02-27,2025-02-27,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250130_F_0000.csv.zip
 2025-02-27,2025-03-27,2025-03-27,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250227_F_0000.csv.zip
-2025-03-27,2025-04-30,2025-04-30,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250327_F_0000.csv.zip
-2025-04-30,2025-05-29,2025-05-29,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250430_F_0000.csv.zip
+2025-03-27,2025-04-24,2025-04-24,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250327_F_0000.csv.zip
+2025-04-24,2025-05-29,2025-05-29,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip
 2025-05-29,2025-06-26,2025-06-26,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250529_F_0000.csv.zip
 2025-06-26,2025-07-31,2025-07-31,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250626_F_0000.csv.zip
 2025-07-31,2025-08-28,2025-08-28,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250731_F_0000.csv.zip

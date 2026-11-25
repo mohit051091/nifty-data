@@ -1,6 +1,7 @@
 """NSE F&O bhavcopy readers for the selected underlying (see config.py): listings, daily OHLC and expiries."""
 
 import csv
+import re
 import math
 import tempfile
 from datetime import date, timedelta
@@ -119,3 +120,61 @@ def traded_option_expiries(trade_date: date, cache_dir: Path) -> tuple[str, set[
     """Option expiries that traded on the session, from the NSE F&O bhavcopy."""
     source, candles = contract_candles(trade_date, cache_dir)
     return source, {expiry for expiry, _, _ in candles}
+
+
+_OLD_NAME = re.compile(r'^fo(\d{2})([A-Za-z]{3})(\d{4})bhav\.csv(?:\.zip)?$', re.IGNORECASE)
+_UDIFF_NAME = re.compile(r'^BhavCopy_NSE_FO_0_0_0_(\d{8})_F_0000\.csv(?:\.zip)?$', re.IGNORECASE)
+
+
+def bhavcopy_name_date(name: str):
+    """Trade date encoded in an NSE F&O bhavcopy file name (old `fo05JAN2023bhav.csv.zip` or UDiFF), else None."""
+    match = _OLD_NAME.match(name)
+    if match:
+        try:
+            return date(int(match[3]), MONTH_ABBREVIATIONS.index(match[2].upper()) + 1, int(match[1]))
+        except ValueError:
+            return None
+    match = _UDIFF_NAME.match(name)
+    if match:
+        try:
+            return date(int(match[1][:4]), int(match[1][4:6]), int(match[1][6:]))
+        except ValueError:
+            return None
+    return None
+
+
+def read_listing(path: Path):
+    """Outstanding contracts of the selected underlying in any F&O bhavcopy file.
+
+    Returns (trade_date, option_expiries, future_expiries). The trade date comes from the file name and every row's own
+    date must agree. Both formats are read by their column names: old files (INSTRUMENT OPTIDX/FUTIDX, SYMBOL,
+    EXPIRY_DT, TIMESTAMP) and UDiFF files (FinInstrmTp IDO/IDF, TckrSymb, XpryDt, TradDt). Only the exact symbol counts,
+    so NIFTYNXT50 and the like are ignored.
+    """
+    trade_date = bhavcopy_name_date(path.name)
+    if trade_date is None:
+        raise ValueError(f'{path.name} is not a recognised NSE F&O bhavcopy file name')
+    symbol = config.underlying().symbol
+    options, futures, seen = set(), set(), 0
+    with ZipFile(path) as archive:
+        files = [name for name in archive.namelist() if name.lower().endswith('.csv')]
+        if len(files) != 1:
+            raise ValueError(f'Expected one CSV in {path.name}')
+        with archive.open(files[0]) as member:
+            for row in csv.DictReader(TextIOWrapper(member, encoding='utf-8-sig')):
+                if (row.get('TckrSymb') or row.get('SYMBOL') or '').strip() != symbol:
+                    continue
+                stamp = row.get('TradDt') or row.get('TIMESTAMP')
+                if stamp is None or nse_date(stamp.strip()) != trade_date:
+                    raise ValueError(f'{path.name}: row trade date {stamp!r} differs from the file date {trade_date}')
+                kind = (row.get('FinInstrmTp') or row.get('INSTRUMENT') or '').strip()
+                if kind in ('IDO', 'OPTIDX'):
+                    options.add(expiry_of(row))
+                elif kind in ('IDF', 'FUTIDX'):
+                    futures.add(expiry_of(row))
+                else:
+                    continue
+                seen += 1
+    if not seen:
+        raise ValueError(f'{path.name}: no {symbol} index contracts found')
+    return trade_date, options, futures

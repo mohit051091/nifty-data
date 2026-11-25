@@ -1,0 +1,8 @@
+expiry,type,flag,from_date,to_date_exclusive,code,reason
+2025-04-24,monthly,WEEK,2025-03-27,2025-03-28,5,NSE monthly missing from Dhan's MONTH series; served by the WEEK series
+2025-04-24,monthly,WEEK,2025-03-28,2025-04-04,4,NSE monthly missing from Dhan's MONTH series; served by the WEEK series
+2025-04-24,monthly,WEEK,2025-04-04,2025-04-10,3,NSE monthly missing from Dhan's MONTH series; served by the WEEK series
+2025-04-24,monthly,WEEK,2025-04-10,2025-04-18,2,NSE monthly missing from Dhan's MONTH series; served by the WEEK series
+2025-04-24,monthly,WEEK,2025-04-18,2025-04-25,1,NSE monthly missing from Dhan's MONTH series; served by the WEEK series
+2025-05-29,monthly,MONTH,2025-04-24,2025-05-01,2,"Dhan MONTH series holds an extra expiry inside the window, so the contract stays code 2 longer"
+2025-05-29,monthly,MONTH,2025-05-01,2025-05-30,1,"Dhan MONTH series holds an extra expiry inside the window, so the contract stays code 2 longer"

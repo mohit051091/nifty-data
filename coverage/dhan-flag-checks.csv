@@ -1,0 +1,43 @@
+expiry,trade_date,flag,code,result,detail
+2025-04-24,2025-03-27,WEEK,5,unavailable,Dhan WEEK code 5 returns no rows: the contract is not served that early
+2025-04-24,2025-03-28,WEEK,4,unavailable,Dhan WEEK code 4 returns no rows: the contract is not served that early
+2025-04-24,2025-04-01,WEEK,4,unavailable,Dhan WEEK code 4 returns no rows: the contract is not served that early
+2025-04-24,2025-04-02,WEEK,4,unavailable,Dhan WEEK code 4 returns no rows: the contract is not served that early
+2025-04-24,2025-04-03,WEEK,4,unavailable,Dhan WEEK code 4 returns no rows: the contract is not served that early
+2025-04-24,2025-04-04,WEEK,3,pass,"WEEK code 3 first close 327.25 sits before WEEK code 4 which is identical to MONTH code 1 (same, first close 397.5)"
+2025-04-24,2025-04-07,WEEK,3,pass,"WEEK code 3 first close 420.05 sits before WEEK code 4 which is identical to MONTH code 1 (same, first close 555.1)"
+2025-04-24,2025-04-08,WEEK,3,pass,"WEEK code 3 first close 424.1 sits before WEEK code 4 which is identical to MONTH code 1 (same, first close 505.05)"
+2025-04-24,2025-04-09,WEEK,3,pass,"WEEK code 3 first close 442.1 sits before WEEK code 4 which is identical to MONTH code 1 (same, first close 529.25)"
+2025-04-24,2025-04-11,WEEK,2,pass,"WEEK code 2 first close 415.05 sits before WEEK code 3 which is identical to MONTH code 1 (same, first close 506.8)"
+2025-04-24,2025-04-15,WEEK,2,pass,"WEEK code 2 first close 303.7 sits before WEEK code 3 which is identical to MONTH code 1 (same, first close 369.95)"
+2025-04-24,2025-04-16,WEEK,2,pass,"WEEK code 2 first close 190.6 sits before WEEK code 3 which is identical to MONTH code 1 (same, first close 279.65)"
+2025-04-24,2025-04-17,WEEK,2,pass,"WEEK code 2 first close 185.75 sits before WEEK code 3 which is identical to MONTH code 1 (same, first close 274.8)"
+2025-04-24,2025-04-21,WEEK,1,pass,"WEEK code 1 first close 144.0 sits before WEEK code 2 which is identical to MONTH code 1 (same, first close 227.3)"
+2025-04-24,2025-04-22,WEEK,1,pass,"WEEK code 1 first close 102.0 sits before WEEK code 2 which is identical to MONTH code 1 (same, first close 223.6)"
+2025-04-24,2025-04-23,WEEK,1,pass,"WEEK code 1 first close 76.75 sits before WEEK code 2 which is identical to MONTH code 1 (same, first close 199.55)"
+2025-04-24,2025-04-24,WEEK,1,pass,"WEEK code 1 closes 0.05 (expired), MONTH code 1 is another contract closing 203.7"
+2025-05-29,2025-04-24,MONTH,2,pass,MONTH code 1 equals WEEK code 2 (the 2025-04-30 expiry); MONTH code 2 first close 510.15 is dearer
+2025-05-29,2025-04-25,MONTH,2,pass,MONTH code 1 equals WEEK code 1 (the 2025-04-30 expiry); MONTH code 2 first close 517.55 is dearer
+2025-05-29,2025-04-28,MONTH,2,pass,MONTH code 1 equals WEEK code 1 (the 2025-04-30 expiry); MONTH code 2 first close 530.35 is dearer
+2025-05-29,2025-04-29,MONTH,2,pass,MONTH code 1 equals WEEK code 1 (the 2025-04-30 expiry); MONTH code 2 first close 511.0 is dearer
+2025-05-29,2025-04-30,MONTH,2,pass,MONTH code 1 equals WEEK code 1 (the 2025-04-30 expiry); MONTH code 2 first close 472.95 is dearer
+2025-05-29,2025-05-02,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-05,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-06,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-07,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-08,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-09,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-12,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-13,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-14,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-15,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-16,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-19,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-20,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-21,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-22,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-23,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-26,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-27,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-28,MONTH,1,pass,MONTH code 1 present
+2025-05-29,2025-05-29,MONTH,1,pass,MONTH code 1 closes 0.1 on its expiry day

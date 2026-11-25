@@ -98,6 +98,8 @@ class Expiry:
     source: str
     kind: str = "monthly"   # folder under data/
     flag: str = "MONTH"     # Dhan expiryFlag
+    # Per-expiry override from dhan-overrides.csv: ((from, to_exclusive, flag, code), ...). Empty = default mapping.
+    segments: tuple = ()
 
     def code_for(self, day):
         """Relative Dhan code under which this contract is served on `day`.
@@ -106,11 +108,26 @@ class Expiry:
         expiry day), code 2 the next one. This holds for MONTH (monthly) and WEEK (weekly) alike, where
         `previous` is the previous expiry of the same flag.
         """
+        if self.segments:
+            return next((code for start, stop, _, code in self.segments if start <= day < stop), None)
         if day == self.previous:
             return 2
         if self.previous < day <= self.current:
             return 1
         return None
+
+
+def load_overrides(path, kind):
+    """{expiry: segments} from dhan-overrides.csv next to the calendar (absent file = no overrides)."""
+    if not path.exists():
+        return {}
+    result = {}
+    for row in rows_from_csv(path):
+        if row["type"] == kind:
+            result.setdefault(date.fromisoformat(row["expiry"]), []).append(
+                (date.fromisoformat(row["from_date"]), date.fromisoformat(row["to_date_exclusive"]),
+                 row["flag"], int(row["code"])))
+    return {key: tuple(sorted(value)) for key, value in result.items()}
 
 
 def load_calendar(path, kind="monthly"):
@@ -128,12 +145,15 @@ def load_calendar(path, kind="monthly"):
         raise ValueError("Monthly calendar must include all 61 expiry months in order.")
     def checked(row):
         return row["verified"].lower() == "true" and bool(row["source"])
+    overrides = load_overrides(Path(path).with_name("dhan-overrides.csv"), kind)
+    if set(overrides) - set(listed[1:]):
+        raise ValueError(f"dhan-overrides.csv names expiries absent from {path}.")
     result = {}
     for previous, current, old, new in zip(listed, listed[1:], rows, rows[1:]):
         if kind == "weekly" and new.get("monthly", "").lower() == "true":
             continue  # the monthly contract is stored under data/monthly only
         result[current] = Expiry(current, previous, checked(new), checked(old), new["source"],
-                                 etype.name, etype.flag)
+                                 etype.name, etype.flag, overrides.get(current, ()))
     return result
 
 
@@ -351,6 +371,16 @@ def valid_prices(values):
 
 
 def option_batches(expiry):
+    if expiry.segments:
+        # Dhan serves this contract under another flag or code than the default: one batch family per segment.
+        # Only code 1 is fetched as a window (it is split to single days on rejection); other codes day by day.
+        return [
+            Batch.make("options", expiry.current, a, b, code, side, offset, flag)
+            for start, stop, flag, code in expiry.segments
+            for a, b in (windows(start, stop, 29) if code == 1 else [(d, d + DAY) for d in dates(start, stop) if d.weekday() < 5])
+            for side in ("CE", "PE")
+            for offset in (0, *range(-1, -11, -1), *range(1, 11))
+        ]
     start = max(START, expiry.previous + DAY)
     stop = min(STOP, expiry.current + DAY)
     ranges = [(1, a, b) for a, b in windows(start, stop, 29)]

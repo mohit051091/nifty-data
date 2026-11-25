@@ -10,8 +10,14 @@ only when the index future also expires there. A file that contradicts the calen
 
 - Weekly: Thursday for nominal dates up to 28 Aug 2025, Tuesday from 2 Sep 2025 (NSE moved NIFTY expiries to Tuesday
   from 1 Sep 2025).
-- Monthly: the last weekly date of the calendar month by actual date (last Thursday, then last Tuesday). April 2025 is
-  30 Apr, not the NSE series date 24 Apr, because that is what Dhan's MONTH flag serves.
+- Monthly: NSE's definition. The last expiry whose NOMINAL date (the scheduled Thursday/Tuesday, before any holiday
+  shift) falls in the month. A weekly pulled into a month by a holiday stays a weekly. Only April 2025 differs from
+  "last expiry by actual date": nominal 1 May 2025 was shifted to 30 Apr, so the April monthly is 24 Apr and 30 Apr is a
+  weekly (`monthly=false`). Checked over every month boundary of Nov 2021 to Nov 2026.
+- April 2025 override: Dhan's `expiryFlag=MONTH` serves 30 Apr as the April monthly (checked, `coverage/dhan-flag-evidence.csv`:
+  MONTH code 1 is identical to WEEK code 1 on 25 to 30 Apr and the 24 Apr contract is never MONTH code 1). The NSE monthly
+  24 Apr is therefore fetched via WEEK, and 29 May as MONTH code 2 on 24 to 30 Apr (code 1 from 2 May), see
+  `dhan-overrides.csv`. Dhan WEEK serves 24 Apr only from 4 Apr 2025.
 - Holidays: a nominal day that is not a regular trading session moves to the previous regular session.
   `sessions.csv` is the Bank Nifty repository's session list (NSE index history). It is the same exchange calendar and
   matches the 1,241 daily NIFTY candles Dhan returns for the window exactly.
@@ -23,17 +29,21 @@ only when the index future also expires there. A file that contradicts the calen
 
 ## Files NSE must supply
 
-`bhavcopies-needed.csv` lists the F&O bhavcopy of every weekly expiry date (monthly dates included): 263 files. The same
-files serve `verify_expiries.py` and `verify_mapping.py` (rollover-day opens). Save them under their original names in
-one directory outside the checkout, then:
+Any F&O bhavcopy lists every outstanding contract, so one snapshot a month is enough: 2021-11-15 and the first trading
+day of each month (`bhavcopies-needed.csv`, 61 files). Per-expiry-day files also work. Both name styles are read
+(`fo05JAN2023bhav.csv.zip`, `BhavCopy_NSE_FO_0_0_0_YYYYMMDD_F_0000.csv.zip`). Save them under their original names in one
+directory outside the checkout, then:
 
 ```sh
-python -m backfill.verify_expiries --cache-dir /path/to/nse-cache --list-missing   # what is still needed
+python -m backfill.verify_expiries --cache-dir /path/to/nse-cache --list-missing   # dates no file confirms yet
 python -m backfill.verify_expiries --cache-dir /path/to/nse-cache                  # upgrade derived to verified
 ```
 
-Until then use `--accept-derived-calendar`. Rows exported under it are recorded as `calendar_verified=false` in the
-manifest.
+A date is verified when a file dated on or before it lists it as a NIFTY option expiry (OPTIDX/IDO); a monthly date
+must also be a NIFTY future expiry (FUTIDX/IDF). The run aborts and writes nothing if a file lists an in-window NIFTY
+option expiry that is not in the calendar, a future expiry that is not a monthly date, or a future expiry we filed as a
+weekly. Tests: `python -m unittest backfill.test_verify_expiries`. Until verified use `--accept-derived-calendar`
+(recorded as `calendar_verified=false`).
 
 ## Dhan-only calendar check
 

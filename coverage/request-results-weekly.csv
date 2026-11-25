@@ -1,4 +1,886 @@
 kind,unit,flag,code,start,end,side,offset,status,rows,malformed,attempts,detail
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-10,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-9,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-8,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-7,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-6,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-5,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-4,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-3,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-2,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,-1,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,0,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,1,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,2,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,3,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,4,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,5,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,6,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,7,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,8,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,9,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,CE,10,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-10,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-9,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-8,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-7,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-6,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-5,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-4,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-3,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-2,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,-1,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,0,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,1,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,2,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,3,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,4,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,5,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,6,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,7,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,8,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,9,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-18,2025-04-25,PE,10,split_transport,0,0,0,One-calendar-day provider transport
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-10,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-9,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-8,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-7,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-6,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-5,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-4,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-3,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-2,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,-1,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,0,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,1,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,2,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,3,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,4,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,5,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,6,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,7,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,8,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,9,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,CE,10,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-10,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-9,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-8,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-7,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-6,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-5,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-4,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-3,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-2,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,-1,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,0,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,1,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,2,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,3,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,4,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,5,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,6,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,7,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,8,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,9,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-21,2025-04-22,PE,10,returned,375,0,1,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-10,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-9,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-8,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-7,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-6,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-5,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-4,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-3,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-2,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,-1,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,0,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,1,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,2,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,3,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,4,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,5,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,6,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,7,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,8,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,9,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,CE,10,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-10,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-9,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-8,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-7,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-6,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-5,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-4,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-3,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-2,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,-1,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,0,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,1,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,2,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,3,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,4,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,5,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,6,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,7,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,8,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,9,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-22,2025-04-23,PE,10,returned,375,0,0,One-day wire request 2025-04-21 to 2025-04-22 included expected session 2025-04-22
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-10,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-9,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-8,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-7,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-6,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-5,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-4,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-3,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-2,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,-1,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,0,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,1,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,2,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,3,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,4,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,5,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,6,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,7,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,8,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,9,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,CE,10,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-10,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-9,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-8,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-7,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-6,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-5,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-4,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-3,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-2,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,-1,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,0,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,1,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,2,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,3,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,4,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,5,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,6,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,7,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,8,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,9,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-23,2025-04-24,PE,10,returned,375,0,1,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-10,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-9,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-8,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-7,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-6,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-5,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-4,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-3,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-2,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,-1,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,0,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,1,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,2,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,3,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,4,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,5,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,6,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,7,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,8,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,9,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,CE,10,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-10,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-9,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-8,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-7,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-6,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-5,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-4,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-3,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-2,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,-1,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,0,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,1,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,2,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,3,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,4,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,5,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,6,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,7,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,8,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,9,returned,373,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,1,2025-04-24,2025-04-25,PE,10,returned,375,0,0,One-day wire request 2025-04-23 to 2025-04-24 included expected session 2025-04-24
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-9,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,-1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,9,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,CE,10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-9,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,-1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,1,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,5,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,7,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,9,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,2,2025-04-10,2025-04-11,PE,10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-10,conflicting,375,0,1,2 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-9,conflicting,374,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-8,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-7,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-6,conflicting,375,0,1,3 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,-1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,0,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,6,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,7,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,8,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,9,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,CE,10,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-10,conflicting,375,0,1,2 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-9,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-8,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-7,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-6,conflicting,375,0,1,3 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,-1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,0,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,1,returned,374,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,5,returned,374,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,6,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,7,conflicting,374,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,8,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,9,conflicting,374,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-11,2025-04-12,PE,10,conflicting,375,0,1,1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-9,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,-1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,9,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,CE,10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-9,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,-1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,9,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-14,2025-04-15,PE,10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-9,conflicting,375,0,1,clipped provider rows on exclusive end date=375; 1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-7,conflicting,375,0,1,clipped provider rows on exclusive end date=375; 1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-3,conflicting,375,0,1,clipped provider rows on exclusive end date=375; 1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,-1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,0,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,7,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,9,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,CE,10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-9,conflicting,375,0,1,clipped provider rows on exclusive end date=375; 1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-7,conflicting,375,0,1,clipped provider rows on exclusive end date=375; 1 conflicting rows
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,-1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,0,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,7,returned,375,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,9,returned,375,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,2,2025-04-15,2025-04-16,PE,10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-9,returned,375,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-7,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,-1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,0,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,7,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,9,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,CE,10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-9,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-7,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,-1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,0,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,1,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,2,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,3,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,4,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,5,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,6,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,7,returned,370,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,8,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,9,returned,369,0,1,clipped provider rows on exclusive end date=372
+options,2025-04-24,WEEK,2,2025-04-16,2025-04-17,PE,10,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-10,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-9,returned,374,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-8,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-7,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-6,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,-1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,0,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,6,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,7,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,8,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,9,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,CE,10,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-10,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-9,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-8,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-7,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-6,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,-1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,0,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,1,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,2,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,3,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,4,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,5,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,6,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,7,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,8,returned,375,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,9,returned,372,0,1,
+options,2025-04-24,WEEK,2,2025-04-17,2025-04-18,PE,10,returned,375,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-10,returned,131,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-9,returned,194,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-8,returned,166,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-7,returned,145,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-6,returned,178,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-5,returned,209,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-4,returned,238,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-3,returned,292,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-2,returned,297,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,-1,returned,356,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,0,returned,363,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,1,returned,374,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,2,returned,361,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,3,returned,367,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,4,returned,366,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,5,returned,368,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,6,returned,361,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,7,returned,370,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,8,returned,352,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,9,returned,372,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,CE,10,returned,371,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-10,returned,356,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-9,returned,368,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-8,returned,369,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-7,returned,361,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-6,returned,336,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-5,returned,357,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-4,returned,335,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-3,returned,363,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-2,returned,337,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,-1,returned,369,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,0,returned,371,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,1,returned,369,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,2,returned,346,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,3,returned,356,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,4,returned,343,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,5,returned,334,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,6,returned,311,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,7,returned,330,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,8,returned,298,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,9,returned,281,0,1,
+options,2025-04-24,WEEK,3,2025-04-04,2025-04-05,PE,10,returned,253,0,1,
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-10,returned,239,0,1,clipped provider rows on exclusive end date=204
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-9,returned,213,0,1,clipped provider rows on exclusive end date=271
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-8,returned,225,0,1,clipped provider rows on exclusive end date=260
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-7,returned,221,0,1,clipped provider rows on exclusive end date=290
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-6,returned,230,0,1,clipped provider rows on exclusive end date=289
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-5,returned,230,0,1,clipped provider rows on exclusive end date=297
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-4,returned,276,0,1,clipped provider rows on exclusive end date=320
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-3,returned,268,0,1,clipped provider rows on exclusive end date=338
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-2,returned,284,0,1,clipped provider rows on exclusive end date=360
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,-1,returned,330,0,1,clipped provider rows on exclusive end date=371
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,0,returned,363,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,1,returned,359,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,2,returned,359,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,3,returned,342,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,4,returned,344,0,1,clipped provider rows on exclusive end date=367
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,5,returned,337,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,6,returned,337,0,1,clipped provider rows on exclusive end date=355
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,7,returned,351,0,1,clipped provider rows on exclusive end date=361
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,8,returned,335,0,1,clipped provider rows on exclusive end date=355
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,9,returned,326,0,1,clipped provider rows on exclusive end date=362
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,CE,10,returned,338,0,1,clipped provider rows on exclusive end date=355
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-10,returned,356,0,1,clipped provider rows on exclusive end date=327
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-9,returned,350,0,1,clipped provider rows on exclusive end date=344
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-8,returned,349,0,1,clipped provider rows on exclusive end date=341
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-7,returned,343,0,1,clipped provider rows on exclusive end date=339
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-6,returned,351,0,1,clipped provider rows on exclusive end date=328
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-5,returned,350,0,1,clipped provider rows on exclusive end date=343
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-4,returned,356,0,1,clipped provider rows on exclusive end date=348
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-3,returned,358,0,1,clipped provider rows on exclusive end date=361
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-2,returned,368,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,-1,returned,374,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,0,returned,375,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,1,returned,374,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,2,returned,372,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,3,returned,357,0,1,clipped provider rows on exclusive end date=361
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,4,returned,351,0,1,clipped provider rows on exclusive end date=335
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,5,returned,342,0,1,clipped provider rows on exclusive end date=341
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,6,returned,347,0,1,clipped provider rows on exclusive end date=316
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,7,returned,342,0,1,clipped provider rows on exclusive end date=293
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,8,returned,324,0,1,clipped provider rows on exclusive end date=264
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,9,returned,338,0,1,clipped provider rows on exclusive end date=261
+options,2025-04-24,WEEK,3,2025-04-07,2025-04-08,PE,10,returned,332,0,1,clipped provider rows on exclusive end date=226
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-10,returned,204,0,1,clipped provider rows on exclusive end date=102
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-9,returned,271,0,1,clipped provider rows on exclusive end date=119
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-8,returned,260,0,1,clipped provider rows on exclusive end date=297
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-7,returned,290,0,1,clipped provider rows on exclusive end date=108
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-6,returned,289,0,1,clipped provider rows on exclusive end date=179
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-5,returned,297,0,1,clipped provider rows on exclusive end date=138
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-4,returned,320,0,1,clipped provider rows on exclusive end date=288
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-3,returned,338,0,1,clipped provider rows on exclusive end date=194
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-2,returned,360,0,1,clipped provider rows on exclusive end date=357
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,-1,returned,371,0,1,clipped provider rows on exclusive end date=302
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,0,returned,374,0,1,clipped provider rows on exclusive end date=371
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,1,returned,375,0,1,clipped provider rows on exclusive end date=354
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,2,returned,369,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,3,returned,375,0,1,clipped provider rows on exclusive end date=318
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,4,returned,367,0,1,clipped provider rows on exclusive end date=356
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,5,returned,369,0,1,clipped provider rows on exclusive end date=284
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,6,returned,355,0,1,clipped provider rows on exclusive end date=348
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,7,returned,361,0,1,clipped provider rows on exclusive end date=272
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,8,returned,355,0,1,clipped provider rows on exclusive end date=347
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,9,returned,362,0,1,clipped provider rows on exclusive end date=275
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,CE,10,returned,355,0,1,clipped provider rows on exclusive end date=343
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-10,returned,327,0,1,clipped provider rows on exclusive end date=341
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-9,returned,344,0,1,clipped provider rows on exclusive end date=269
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-8,returned,341,0,1,clipped provider rows on exclusive end date=345
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-7,returned,339,0,1,clipped provider rows on exclusive end date=246
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-6,returned,328,0,1,clipped provider rows on exclusive end date=320
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-5,returned,343,0,1,clipped provider rows on exclusive end date=245
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-4,returned,348,0,1,clipped provider rows on exclusive end date=353
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-3,returned,361,0,1,clipped provider rows on exclusive end date=290
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-2,returned,369,0,1,clipped provider rows on exclusive end date=367
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,-1,returned,374,0,1,clipped provider rows on exclusive end date=339
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,0,returned,375,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,1,returned,374,0,1,clipped provider rows on exclusive end date=356
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,2,returned,366,0,1,clipped provider rows on exclusive end date=367
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,3,returned,361,0,1,clipped provider rows on exclusive end date=288
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,4,returned,335,0,1,clipped provider rows on exclusive end date=332
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,5,returned,341,0,1,clipped provider rows on exclusive end date=223
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,6,returned,316,0,1,clipped provider rows on exclusive end date=293
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,7,returned,293,0,1,clipped provider rows on exclusive end date=163
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,8,returned,264,0,1,clipped provider rows on exclusive end date=262
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,9,returned,261,0,1,clipped provider rows on exclusive end date=114
+options,2025-04-24,WEEK,3,2025-04-08,2025-04-09,PE,10,returned,226,0,1,clipped provider rows on exclusive end date=185
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-10,returned,102,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-9,returned,119,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-8,returned,297,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-7,returned,108,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-6,returned,179,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-5,returned,138,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-4,returned,288,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-3,returned,194,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-2,returned,357,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,-1,returned,302,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,0,returned,371,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,1,returned,354,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,2,returned,370,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,3,returned,318,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,4,returned,356,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,5,returned,284,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,6,returned,348,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,7,returned,272,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,8,returned,347,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,9,returned,275,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,CE,10,returned,343,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-10,returned,341,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-9,returned,269,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-8,returned,345,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-7,returned,246,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-6,returned,320,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-5,returned,245,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-4,returned,353,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-3,returned,290,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-2,returned,367,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,-1,returned,339,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,0,returned,374,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,1,returned,356,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,2,returned,367,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,3,returned,288,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,4,returned,332,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,5,returned,223,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,6,returned,293,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,7,returned,163,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,8,returned,262,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,9,returned,114,0,1,
+options,2025-04-24,WEEK,3,2025-04-09,2025-04-10,PE,10,returned,185,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,CE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-28,2025-03-29,PE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,CE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-03-31,2025-04-01,PE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,CE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-01,2025-04-02,PE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,CE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,-1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,0,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,1,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,2,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,3,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,4,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,5,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,6,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,7,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,8,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,9,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-02,2025-04-03,PE,10,empty,0,0,1,
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-10,empty,0,0,1,clipped provider rows on exclusive end date=334
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-9,empty,0,0,1,clipped provider rows on exclusive end date=327
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-8,empty,0,0,1,clipped provider rows on exclusive end date=372
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-7,empty,0,0,1,clipped provider rows on exclusive end date=360
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-6,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-5,empty,0,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-4,empty,0,0,1,clipped provider rows on exclusive end date=357
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-3,empty,0,0,1,clipped provider rows on exclusive end date=364
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,-1,empty,0,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,7,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,9,empty,0,0,1,clipped provider rows on exclusive end date=373
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,CE,10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-10,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-9,empty,0,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-7,empty,0,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-3,empty,0,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,-1,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,1,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,3,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,5,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,7,empty,0,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,9,empty,0,0,1,clipped provider rows on exclusive end date=371
+options,2025-04-24,WEEK,4,2025-04-03,2025-04-04,PE,10,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-10,empty,0,0,1,clipped provider rows on exclusive end date=354
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-9,empty,0,0,1,clipped provider rows on exclusive end date=363
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-8,empty,0,0,1,clipped provider rows on exclusive end date=319
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-7,empty,0,0,1,clipped provider rows on exclusive end date=323
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-6,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-5,empty,0,0,1,clipped provider rows on exclusive end date=358
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-4,empty,0,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-3,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,-1,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,1,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,3,empty,0,0,1,clipped provider rows on exclusive end date=368
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,5,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,6,empty,0,0,1,clipped provider rows on exclusive end date=370
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,7,empty,0,0,1,clipped provider rows on exclusive end date=364
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,9,empty,0,0,1,clipped provider rows on exclusive end date=371
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,CE,10,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-10,empty,0,0,1,clipped provider rows on exclusive end date=373
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-9,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-7,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-6,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-5,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-4,empty,0,0,1,clipped provider rows on exclusive end date=373
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-3,empty,0,0,1,clipped provider rows on exclusive end date=373
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,-1,empty,0,0,1,clipped provider rows on exclusive end date=374
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,0,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,1,empty,0,0,1,clipped provider rows on exclusive end date=369
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,2,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,3,empty,0,0,1,clipped provider rows on exclusive end date=367
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,4,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,5,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,6,empty,0,0,1,clipped provider rows on exclusive end date=354
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,7,empty,0,0,1,clipped provider rows on exclusive end date=364
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,8,empty,0,0,1,clipped provider rows on exclusive end date=375
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,9,empty,0,0,1,clipped provider rows on exclusive end date=366
+options,2025-04-24,WEEK,5,2025-03-27,2025-03-28,PE,10,empty,0,0,1,clipped provider rows on exclusive end date=354
 options,2026-01-06,WEEK,1,2025-12-31,2026-01-01,CE,-10,returned,375,0,1,One-day wire request 2025-12-31 to 2026-01-01 included expected session 2026-01-01
 options,2026-01-06,WEEK,1,2025-12-31,2026-01-01,CE,-9,returned,375,0,1,One-day wire request 2025-12-31 to 2026-01-01 included expected session 2026-01-01
 options,2026-01-06,WEEK,1,2025-12-31,2026-01-01,CE,-8,returned,375,0,1,One-day wire request 2025-12-31 to 2026-01-01 included expected session 2026-01-01

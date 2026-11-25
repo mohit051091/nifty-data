@@ -1,15 +1,15 @@
 expiry,monthly,source,verified,status,basis,bhavcopy_url
-2021-11-18,false,,false,derived,anchor before the window; Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/NOV/fo18NOV2021bhav.csv.zip
-2021-11-25,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/NOV/fo25NOV2021bhav.csv.zip
-2021-12-02,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo02DEC2021bhav.csv.zip
-2021-12-09,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo09DEC2021bhav.csv.zip
-2021-12-16,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo16DEC2021bhav.csv.zip
-2021-12-23,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo23DEC2021bhav.csv.zip
-2021-12-30,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo30DEC2021bhav.csv.zip
+2021-11-18,false,fo01NOV2021bhav.csv.zip,true,verified,anchor before the window; Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/NOV/fo18NOV2021bhav.csv.zip
+2021-11-25,true,fo01NOV2021bhav.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/NOV/fo25NOV2021bhav.csv.zip
+2021-12-02,false,fo01NOV2021bhav.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo02DEC2021bhav.csv.zip
+2021-12-09,false,fo01NOV2021bhav.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo09DEC2021bhav.csv.zip
+2021-12-16,false,fo01NOV2021bhav.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo16DEC2021bhav.csv.zip
+2021-12-23,false,fo01NOV2021bhav.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo23DEC2021bhav.csv.zip
+2021-12-30,true,fo01NOV2021bhav.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo30DEC2021bhav.csv.zip
 2022-01-06,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo06JAN2022bhav.csv.zip
 2022-01-13,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo13JAN2022bhav.csv.zip
 2022-01-20,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo20JAN2022bhav.csv.zip
-2022-01-27,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo27JAN2022bhav.csv.zip
+2022-01-27,true,fo01NOV2021bhav.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo27JAN2022bhav.csv.zip
 2022-02-03,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/FEB/fo03FEB2022bhav.csv.zip
 2022-02-10,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/FEB/fo10FEB2022bhav.csv.zip
 2022-02-17,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/FEB/fo17FEB2022bhav.csv.zip
@@ -146,18 +146,18 @@ expiry,monthly,source,verified,status,basis,bhavcopy_url
 2024-08-22,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240822_F_0000.csv.zip
 2024-08-29,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240829_F_0000.csv.zip
 2024-09-05,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240905_F_0000.csv.zip
-2024-09-12,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip
-2024-09-19,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240919_F_0000.csv.zip
-2024-09-26,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240926_F_0000.csv.zip
-2024-10-03,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241003_F_0000.csv.zip
-2024-10-10,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241010_F_0000.csv.zip
+2024-09-12,false,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip
+2024-09-19,false,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240919_F_0000.csv.zip
+2024-09-26,true,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240926_F_0000.csv.zip
+2024-10-03,false,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241003_F_0000.csv.zip
+2024-10-10,false,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241010_F_0000.csv.zip
 2024-10-17,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241017_F_0000.csv.zip
 2024-10-24,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241024_F_0000.csv.zip
-2024-10-31,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241031_F_0000.csv.zip
+2024-10-31,true,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241031_F_0000.csv.zip
 2024-11-07,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241107_F_0000.csv.zip
 2024-11-14,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241114_F_0000.csv.zip
 2024-11-21,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241121_F_0000.csv.zip
-2024-11-28,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241128_F_0000.csv.zip
+2024-11-28,true,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241128_F_0000.csv.zip
 2024-12-05,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241205_F_0000.csv.zip
 2024-12-12,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241212_F_0000.csv.zip
 2024-12-19,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241219_F_0000.csv.zip
@@ -178,16 +178,16 @@ expiry,monthly,source,verified,status,basis,bhavcopy_url
 2025-04-03,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250403_F_0000.csv.zip
 2025-04-09,false,,false,derived,holiday shift from 2025-04-10,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250409_F_0000.csv.zip
 2025-04-17,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250417_F_0000.csv.zip
-2025-04-24,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip
-2025-04-30,false,,false,derived,holiday shift from 2025-05-01,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250430_F_0000.csv.zip
-2025-05-08,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250508_F_0000.csv.zip
-2025-05-15,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250515_F_0000.csv.zip
-2025-05-22,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250522_F_0000.csv.zip
-2025-05-29,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250529_F_0000.csv.zip
+2025-04-24,true,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip
+2025-04-30,false,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,holiday shift from 2025-05-01,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250430_F_0000.csv.zip
+2025-05-08,false,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250508_F_0000.csv.zip
+2025-05-15,false,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250515_F_0000.csv.zip
+2025-05-22,false,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250522_F_0000.csv.zip
+2025-05-29,true,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250529_F_0000.csv.zip
 2025-06-05,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250605_F_0000.csv.zip
 2025-06-12,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250612_F_0000.csv.zip
 2025-06-19,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250619_F_0000.csv.zip
-2025-06-26,true,,false,derived,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250626_F_0000.csv.zip
+2025-06-26,true,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,"Thursday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250626_F_0000.csv.zip
 2025-07-03,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250703_F_0000.csv.zip
 2025-07-10,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250710_F_0000.csv.zip
 2025-07-17,false,,false,derived,Thursday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250717_F_0000.csv.zip
@@ -204,17 +204,17 @@ expiry,monthly,source,verified,status,basis,bhavcopy_url
 2025-09-30,true,,false,derived,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250930_F_0000.csv.zip
 2025-10-07,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251007_F_0000.csv.zip
 2025-10-14,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251014_F_0000.csv.zip
-2025-10-20,false,,false,derived,holiday shift from 2025-10-21,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip
-2025-10-28,true,,false,derived,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251028_F_0000.csv.zip
-2025-11-04,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251104_F_0000.csv.zip
-2025-11-11,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251111_F_0000.csv.zip
-2025-11-18,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251118_F_0000.csv.zip
-2025-11-25,true,,false,derived,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251125_F_0000.csv.zip
+2025-10-20,false,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,holiday shift from 2025-10-21,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip
+2025-10-28,true,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251028_F_0000.csv.zip
+2025-11-04,false,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251104_F_0000.csv.zip
+2025-11-11,false,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251111_F_0000.csv.zip
+2025-11-18,false,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251118_F_0000.csv.zip
+2025-11-25,true,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251125_F_0000.csv.zip
 2025-12-02,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251202_F_0000.csv.zip
 2025-12-09,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251209_F_0000.csv.zip
 2025-12-16,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251216_F_0000.csv.zip
 2025-12-23,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251223_F_0000.csv.zip
-2025-12-30,true,,false,derived,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251230_F_0000.csv.zip
+2025-12-30,true,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251230_F_0000.csv.zip
 2026-01-06,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260106_F_0000.csv.zip
 2026-01-13,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260113_F_0000.csv.zip
 2026-01-20,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260120_F_0000.csv.zip
@@ -257,8 +257,8 @@ expiry,monthly,source,verified,status,basis,bhavcopy_url
 2026-10-06,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261006_F_0000.csv.zip
 2026-10-13,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261013_F_0000.csv.zip
 2026-10-19,false,,false,derived,holiday shift from 2026-10-20,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261019_F_0000.csv.zip
-2026-10-27,true,,false,derived,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip
-2026-11-03,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261103_F_0000.csv.zip
-2026-11-09,false,,false,derived,holiday shift from 2026-11-10,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261109_F_0000.csv.zip
-2026-11-17,false,,false,derived,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261117_F_0000.csv.zip
-2026-11-23,true,,false,derived,"holiday shift from 2026-11-24; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261123_F_0000.csv.zip
+2026-10-27,true,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,"Tuesday weekly rule; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip
+2026-11-03,false,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261103_F_0000.csv.zip
+2026-11-09,false,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,holiday shift from 2026-11-10,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261109_F_0000.csv.zip
+2026-11-17,false,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,Tuesday weekly rule,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261117_F_0000.csv.zip
+2026-11-23,true,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,"holiday shift from 2026-11-24; NSE monthly (last nominal expiry of the month), also the monthly contract",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261123_F_0000.csv.zip

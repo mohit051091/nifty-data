@@ -1,8 +1,8 @@
 expiry,source,verified,status,basis,bhavcopy_url
 2021-10-28,,false,derived,anchor before the window (last Thursday of Oct 2021),https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/OCT/fo28OCT2021bhav.csv.zip
-2021-11-25,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/NOV/fo25NOV2021bhav.csv.zip
-2021-12-30,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo30DEC2021bhav.csv.zip
-2022-01-27,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo27JAN2022bhav.csv.zip
+2021-11-25,fo01NOV2021bhav.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/NOV/fo25NOV2021bhav.csv.zip
+2021-12-30,fo01NOV2021bhav.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2021/DEC/fo30DEC2021bhav.csv.zip
+2022-01-27,fo01NOV2021bhav.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/JAN/fo27JAN2022bhav.csv.zip
 2022-02-24,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/FEB/fo24FEB2022bhav.csv.zip
 2022-03-31,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/MAR/fo31MAR2022bhav.csv.zip
 2022-04-28,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2022/APR/fo28APR2022bhav.csv.zip
@@ -34,22 +34,22 @@ expiry,source,verified,status,basis,bhavcopy_url
 2024-06-27,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/historical/DERIVATIVES/2024/JUN/fo27JUN2024bhav.csv.zip
 2024-07-25,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240725_F_0000.csv.zip
 2024-08-29,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240829_F_0000.csv.zip
-2024-09-26,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240926_F_0000.csv.zip
-2024-10-31,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241031_F_0000.csv.zip
-2024-11-28,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241128_F_0000.csv.zip
+2024-09-26,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20240926_F_0000.csv.zip
+2024-10-31,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241031_F_0000.csv.zip
+2024-11-28,BhavCopy_NSE_FO_0_0_0_20240912_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241128_F_0000.csv.zip
 2024-12-26,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20241226_F_0000.csv.zip
 2025-01-30,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250130_F_0000.csv.zip
 2025-02-27,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250227_F_0000.csv.zip
 2025-03-27,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250327_F_0000.csv.zip
-2025-04-24,,false,derived,"NSE monthly: last expiry whose nominal date falls in the month; Dhan MONTH flag serves another date, fetched via dhan-overrides.csv",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip
-2025-05-29,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250529_F_0000.csv.zip
-2025-06-26,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250626_F_0000.csv.zip
+2025-04-24,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,"NSE monthly: last expiry whose nominal date falls in the month; Dhan MONTH flag serves another date, fetched via dhan-overrides.csv",https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip
+2025-05-29,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250529_F_0000.csv.zip
+2025-06-26,BhavCopy_NSE_FO_0_0_0_20250424_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250626_F_0000.csv.zip
 2025-07-31,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250731_F_0000.csv.zip
 2025-08-28,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250828_F_0000.csv.zip
 2025-09-30,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20250930_F_0000.csv.zip
-2025-10-28,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251028_F_0000.csv.zip
-2025-11-25,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251125_F_0000.csv.zip
-2025-12-30,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251230_F_0000.csv.zip
+2025-10-28,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251028_F_0000.csv.zip
+2025-11-25,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251125_F_0000.csv.zip
+2025-12-30,BhavCopy_NSE_FO_0_0_0_20251020_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20251230_F_0000.csv.zip
 2026-01-27,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260127_F_0000.csv.zip
 2026-02-24,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260224_F_0000.csv.zip
 2026-03-30,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260330_F_0000.csv.zip
@@ -59,5 +59,5 @@ expiry,source,verified,status,basis,bhavcopy_url
 2026-07-28,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260728_F_0000.csv.zip
 2026-08-25,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260825_F_0000.csv.zip
 2026-09-29,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20260929_F_0000.csv.zip
-2026-10-27,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip
-2026-11-23,,false,derived,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261123_F_0000.csv.zip
+2026-10-27,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip
+2026-11-23,BhavCopy_NSE_FO_0_0_0_20261027_F_0000.csv.zip,true,verified,NSE monthly: last expiry whose nominal date falls in the month,https://nsearchives.nseindia.com/content/fo/BhavCopy_NSE_FO_0_0_0_20261123_F_0000.csv.zip

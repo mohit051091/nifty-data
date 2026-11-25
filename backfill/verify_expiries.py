@@ -2,7 +2,7 @@
 
 Any bhavcopy counts, whatever day it is for: a snapshot lists every outstanding contract, so one file per month is
 enough. A calendar date E is verified when it appears as a NIFTY option expiry (OPTIDX in old files, IDO in UDiFF
-files) in a supplied file dated on or before E. A date flagged monthly (and every date in expiries-monthly.csv) must
+files) in a supplied file dated on or before E and at most 100 days earlier (long-dated listings get re-dated). A date flagged monthly (and every date in expiries-monthly.csv) must
 also appear as a NIFTY index future expiry (FUTIDX / IDF) in such a file, which is NSE's own monthly series.
 
 The run aborts, writing nothing, when a supplied file contradicts the calendar:
@@ -19,7 +19,7 @@ from __future__ import annotations
 import argparse
 import csv
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from . import config
@@ -27,6 +27,14 @@ from .nse_reference import bhavcopy_name_date, bhavcopy_url, read_listing
 
 ROOT = Path(__file__).resolve().parent
 START, STOP = date(2021, 11, 24), date(2026, 11, 24)
+# NSE lists long-dated NIFTY options (June and December, years ahead) on nominal dates that it re-dates later when
+# a holiday or a weekday rule changes (for example 2023-06-29 became 2023-06-28). A listing only counts, for
+# verification or contradiction, when the expiry is at most HORIZON days after the file's trade date.
+HORIZON = timedelta(days=100)
+
+
+def near(trade_date, expiries):
+    return {x for x in expiries if trade_date <= x <= trade_date + HORIZON}
 
 
 def load(cache_dir):
@@ -48,6 +56,7 @@ def check(listings, weekly_rows, monthly_rows):
     monthly = {date.fromisoformat(r["expiry"]) for r in monthly_rows}
     weekly_only = {date.fromisoformat(r["expiry"]) for r in weekly_rows if r["monthly"].lower() != "true"}
     for trade_date, options, futures, name in listings:
+        options, futures = near(trade_date, options), near(trade_date, futures)
         unknown = sorted(x for x in options if START <= x < STOP and x not in weekly)
         if unknown:
             raise ValueError(f"{name} lists NIFTY option expiries not in the calendar: "
@@ -68,8 +77,8 @@ def verify(rows, listings, monthly_kind):
     for row in rows:
         day = date.fromisoformat(row["expiry"])
         needs_future = monthly_kind or row.get("monthly", "").lower() == "true"
-        option_source = next((name for d, options, _, name in listings if d <= day and day in options), None)
-        future_ok = not needs_future or any(d <= day and day in futures for d, _, futures, _ in listings)
+        option_source = next((name for d, options, _, name in listings if day in near(d, options)), None)
+        future_ok = not needs_future or any(day in near(d, futures) for d, _, futures, _ in listings)
         if option_source is None or not future_ok:
             if row["verified"].lower() != "true" and day >= START:  # the pre-window anchor cannot be fetched
                 missing.append(day)

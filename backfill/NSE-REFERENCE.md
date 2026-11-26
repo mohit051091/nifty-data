@@ -27,6 +27,10 @@ only when the index future also expires there. A file that contradicts the calen
 - 24 Nov 2026 is outside the window and so absent from `sessions.csv`. Dhan has no NIFTY candles for it, so the Nov 2026
   expiry is derived as Monday 23 Nov 2026 (the Bank Nifty repository's NSE-verified monthly expiry is also 23 Nov).
 
+## Verification status
+
+Six bhavcopies have been supplied: 1 Nov 2021, 12 Sep 2024, 24 Apr 2025, 20 Oct 2025 and, from the Bank Nifty repository, 27 Oct 2026 and 23 Nov 2026. They verify 14 monthly dates and 34 rows of `expiries-weekly.csv` (including the 14 monthly dates and the pre-window anchor 18 Nov 2021, so 19 weekly-only dates in the window). The other in-window dates stay `derived` (229 of 262). `sessions.csv` is the Bank Nifty repository's list, so its `source` column names the NSE `NIFTY BANK` index history. It is the shared exchange calendar and was not edited.
+
 ## Files NSE must supply
 
 Any F&O bhavcopy lists every outstanding contract, so one snapshot a month is enough: 2021-11-15 and the first trading

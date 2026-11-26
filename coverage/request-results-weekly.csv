@@ -43112,10 +43112,10 @@ options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,CE,7,returned,375,0,1,One-day wi
 options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,CE,8,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,CE,9,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,CE,10,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
-options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-10,rejected,0,0,1,"HTTP 400, Dhan DH-907"
-options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-9,rejected,0,0,1,"HTTP 400, Dhan DH-907"
-options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-8,rejected,0,0,1,"HTTP 400, Dhan DH-907"
-options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-7,rejected,0,0,1,"HTTP 400, Dhan DH-907"
+options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-10,returned,375,0,2,clipped provider rows on exclusive end date=375
+options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-9,returned,375,0,2,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
+options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-8,returned,375,0,2,clipped provider rows on exclusive end date=375
+options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-7,returned,375,0,2,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-6,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-5,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-04,2025-08-05,PE,-4,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
@@ -43155,9 +43155,9 @@ options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,CE,8,returned,375,0,0,One-day wi
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,CE,9,returned,375,0,0,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,CE,10,returned,375,0,0,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-10,returned,375,0,1,clipped provider rows on exclusive end date=375
-options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-9,rejected,0,0,1,"HTTP 400, Dhan DH-907"
+options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-9,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-8,returned,375,0,1,clipped provider rows on exclusive end date=375
-options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-7,rejected,0,0,1,"HTTP 400, Dhan DH-907"
+options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-7,returned,375,0,1,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-6,returned,375,0,0,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-5,returned,375,0,0,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05
 options,2025-08-07,WEEK,1,2025-08-05,2025-08-06,PE,-4,returned,375,0,0,One-day wire request 2025-08-04 to 2025-08-05 included expected session 2025-08-05

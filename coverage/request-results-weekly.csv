@@ -57707,3 +57707,297 @@ options,2026-11-09,WEEK,2,2026-11-03,2026-11-04,PE,7,empty,0,0,1,
 options,2026-11-09,WEEK,2,2026-11-03,2026-11-04,PE,8,empty,0,0,1,
 options,2026-11-09,WEEK,2,2026-11-03,2026-11-04,PE,9,empty,0,0,1,
 options,2026-11-09,WEEK,2,2026-11-03,2026-11-04,PE,10,empty,0,0,1,
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-10,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-9,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-8,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-7,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-6,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-5,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-4,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-3,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-2,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,-1,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,0,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,1,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,2,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,3,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,4,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,5,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,6,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,7,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,8,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,9,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,CE,10,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-10,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-9,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-8,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-7,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-6,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-5,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-4,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-3,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-2,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,-1,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,0,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,1,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,2,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,3,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,4,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,5,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,6,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,7,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,8,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,9,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-10,2026-11-18,PE,10,split_transport,0,0,0,One-calendar-day provider transport
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-10,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-9,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-8,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-7,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-6,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-5,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-4,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-3,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-2,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,-1,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,0,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,1,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,2,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,3,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,4,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,5,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,6,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,7,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,8,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,9,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,CE,10,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-10,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-9,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-8,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-7,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-6,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-5,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-4,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-3,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-2,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,-1,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,0,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,1,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,2,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,3,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,4,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,5,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,6,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,7,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,8,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,9,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-11,2026-11-12,PE,10,returned,385,0,1,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-10,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-9,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-8,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-7,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-6,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-5,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-4,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-3,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-2,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,-1,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,0,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,1,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,2,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,3,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,4,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,5,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,6,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,7,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,8,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,9,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,CE,10,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-10,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-9,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-8,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-7,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-6,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-5,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-4,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-3,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-2,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,-1,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,0,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,1,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,2,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,3,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,4,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,5,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,6,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,7,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,8,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,9,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-12,2026-11-13,PE,10,returned,385,0,0,One-day wire request 2026-11-11 to 2026-11-12 included expected session 2026-11-12
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-10,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-9,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-8,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-7,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-6,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-5,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-4,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-3,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-2,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,-1,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,0,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,1,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,2,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,3,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,4,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,5,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,6,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,7,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,8,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,9,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,CE,10,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-10,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-9,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-8,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-7,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-6,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-5,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-4,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-3,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-2,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,-1,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,0,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,1,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,2,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,3,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,4,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,5,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,6,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,7,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,8,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,9,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-13,2026-11-14,PE,10,returned,385,0,1,
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-10,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-9,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-8,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-7,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-6,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-5,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-4,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-3,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-2,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,-1,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,0,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,1,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,2,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,3,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,4,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,5,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,6,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,7,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,8,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,9,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,CE,10,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-10,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-9,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-8,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-7,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-6,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-5,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-4,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-3,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-2,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,-1,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,0,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,1,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,2,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,3,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,4,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,5,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,6,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,7,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,8,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,9,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-16,2026-11-17,PE,10,returned,385,0,1,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-10,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-9,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-8,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-7,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-6,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-5,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-4,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-3,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-2,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,-1,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,0,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,1,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,2,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,3,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,4,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,5,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,6,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,7,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,8,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,9,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,CE,10,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-10,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-9,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-8,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-7,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-6,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-5,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-4,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-3,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-2,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,-1,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,0,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,1,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,2,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,3,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,4,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,5,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,6,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,7,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,8,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,9,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,1,2026-11-17,2026-11-18,PE,10,returned,385,0,0,One-day wire request 2026-11-16 to 2026-11-17 included expected session 2026-11-17
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-10,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-9,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-8,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-7,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-6,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-5,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-4,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-3,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-2,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,-1,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,0,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,1,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,2,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,3,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,4,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,5,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,6,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,7,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,8,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,9,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,CE,10,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-10,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-9,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-8,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-7,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-6,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-5,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-4,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-3,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-2,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,-1,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,0,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,1,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,2,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,3,returned,385,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,4,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,5,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,6,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,7,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,8,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,9,empty,0,0,1,
+options,2026-11-17,WEEK,2,2026-11-09,2026-11-10,PE,10,empty,0,0,1,
